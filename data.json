@@ -1,0 +1,401 @@
+{
+    "kesehatan_mental": [
+      {
+        "kategori": "stres",
+        "pertanyaan":[
+            "Apa itu stres?",
+            "Bagaimana cara mengelola stres?",
+            "Apa dampak negatif dari stres berkepanjangan?",
+            "Bagaimana cara mengelola stres di tempat kerja?",
+            "Apa saja tanda-tanda stres berlebihan?",
+            "Apakah hobi bisa membantu mengurangi stres?"
+        ],
+        "jawaban": [
+            "Stres adalah reaksi tubuh terhadap situasi atau tuntutan yang sulit, yang dapat berasal dari tekanan pekerjaan, masalah keuangan, atau konflik pribadi.",
+            "Mengelola stres dapat dilakukan dengan teknik pernapasan, olahraga, meditasi, atau berbicara dengan orang yang dipercaya.",
+            "Stres yang berlangsung lama dapat menyebabkan masalah fisik seperti tekanan darah tinggi dan gangguan tidur, serta masalah mental seperti kecemasan dan depresi.",
+            "Untuk mengelola stres di tempat kerja, cobalah menetapkan prioritas, mengambil jeda, belajar mengatakan 'tidak,' dan mencari dukungan dari rekan kerja.",
+            "Tanda-tanda stres berlebihan mencakup sakit kepala, kelelahan, gangguan tidur, mudah marah, dan hilangnya minat pada aktivitas sehari-hari.",
+            "Ya, hobi seperti melukis, membaca, atau berkebun bisa membantu menenangkan pikiran dan mengurangi stres."
+        ]
+    },
+    {
+        "kategori": "kecemasan",
+        "pertanyaan": [
+            "Apa yang dimaksud dengan kecemasan?",
+            "Bagaimana cara menghadapi kecemasan?",
+            "Apakah konsumsi makanan berpengaruh pada kecemasan?",
+            "Bagaimana mengatasi kecemasan sosial?",
+            "Apakah kecemasan dapat menyebabkan gejala fisik?",
+            "Apa perbedaan antara kecemasan normal dan gangguan kecemasan?"
+        ],
+        "jawaban": [
+            "Kecemasan adalah perasaan takut atau khawatir yang berlebihan terkait dengan suatu hal, biasanya disertai perasaan tegang atau tidak nyaman.",
+            "Kecemasan dapat diatasi dengan teknik relaksasi, fokus pada pikiran positif, dan menghindari pemikiran yang terlalu jauh ke depan.",
+            "Ya, makanan kaya gula, kafein, dan makanan olahan dapat memperburuk kecemasan, sementara diet seimbang dapat membantu mengurangi kecemasan.",
+            "Kecemasan sosial dapat diatasi dengan latihan keterampilan sosial secara bertahap, teknik relaksasi, atau bantuan dari profesional kesehatan mental.",
+            "Kecemasan dapat menyebabkan gejala fisik seperti jantung berdebar, napas pendek, pusing, mual, dan otot tegang.",
+            "Kecemasan normal bersifat sementara dan terhubung dengan situasi tertentu, sedangkan gangguan kecemasan adalah kondisi kronis yang mempengaruhi fungsi harian."
+        ]
+    },
+    {
+        "kategori": "depresi",
+        "pertanyaan": [
+            "Apa itu depresi?",
+            "Apa gejala umum depresi?",
+            "Bagaimana cara mendapatkan bantuan untuk depresi?",
+            "Apakah depresi hanya dialami oleh orang dewasa?",
+            "Apa perbedaan antara kesedihan biasa dan depresi?",
+            "Apakah ada cara untuk membantu teman yang sedang depresi?"
+        ],
+        "jawaban": [
+            "Depresi adalah gangguan mental yang menyebabkan perasaan sedih atau kehilangan minat secara terus-menerus.",
+            "Gejala umum depresi meliputi perasaan sedih yang berkelanjutan, kehilangan minat, kelelahan, gangguan tidur, dan perubahan nafsu makan.",
+            "Bantuan untuk depresi bisa didapatkan dari profesional kesehatan mental seperti psikolog atau psikiater.",
+            "Depresi dapat dialami oleh segala usia, termasuk remaja dan anak-anak, meskipun gejalanya mungkin berbeda.",
+            "Kesedihan biasa bersifat sementara, sedangkan depresi adalah kondisi yang bertahan lama dan dapat mempengaruhi fungsi harian.",
+            "Untuk membantu teman yang depresi, dengarkan tanpa menghakimi, berikan dukungan emosional, dan ajak melakukan aktivitas sederhana."
+        ]
+    },
+    {
+        "kategori": "pengembangan diri",
+        "pertanyaan": [
+            "Apa itu pengembangan diri?",
+            "Bagaimana cara membangun kepercayaan diri?",
+            "Mengapa penting untuk keluar dari zona nyaman?",
+            "Apa manfaat dari belajar mindfulness?",
+            "Bagaimana cara mengatasi rasa takut akan kegagalan?",
+            "Apakah memiliki rutinitas harian penting untuk pengembangan diri?"
+        ],
+        "jawaban": [
+            "Pengembangan diri adalah upaya meningkatkan kemampuan, potensi, dan kualitas hidup seseorang melalui berbagai kegiatan seperti belajar dan introspeksi.",
+            "Kepercayaan diri bisa dibangun dengan mengenali kelebihan diri, menetapkan tujuan kecil, dan melatih pemikiran positif.",
+            "Keluar dari zona nyaman memungkinkan Anda mengembangkan keterampilan baru, memperluas wawasan, dan mengatasi rasa takut.",
+            "Mindfulness membantu Anda fokus pada saat ini, mengurangi stres, dan meningkatkan kesadaran diri.",
+            "Rasa takut akan kegagalan dapat diatasi dengan melihatnya sebagai bagian dari proses belajar dan menghargai pencapaian kecil.",
+            "Rutinitas harian yang teratur dapat meningkatkan produktivitas dan membantu Anda mencapai tujuan dengan lebih konsisten."
+        ]
+    },
+    {
+        "kategori": "dukungan sosial",
+        "pertanyaan": [
+            "Mengapa dukungan sosial penting untuk kesehatan mental?",
+            "Bagaimana cara memperkuat hubungan dengan orang terdekat?",
+            "Bagaimana cara mencari dukungan sosial ketika merasa kesepian?",
+            "Apakah bergabung dengan kelompok dukungan bisa membantu?",
+            "Bagaimana cara mengatasi rasa canggung saat berbicara dengan orang baru?"
+        ],
+        "jawaban": [
+            "Dukungan sosial membantu mengurangi stres, menyediakan bantuan emosional, dan membantu kita merasa lebih terhubung.",
+            "Memperkuat hubungan dengan orang terdekat bisa dilakukan dengan meluangkan waktu bersama dan mendengarkan tanpa menghakimi.",
+            "Ketika merasa kesepian, cobalah bergabung dengan komunitas yang Anda minati atau ajak teman dan keluarga berbicara.",
+            "Ya, bergabung dengan kelompok dukungan membantu Anda bertemu orang-orang dengan masalah serupa dan mendapatkan strategi baru.",
+            "Mulailah percakapan dengan hal-hal ringan dan ajukan pertanyaan terbuka untuk membuat interaksi lebih nyaman."
+        ]
+    },
+    {
+        "kategori": "kesehatan fisik dan mental",
+        "pertanyaan": [
+            "Apakah kesehatan fisik berpengaruh pada kesehatan mental?",
+            "Bagaimana tidur mempengaruhi kesehatan mental?",
+            "Bagaimana olahraga membantu kesehatan mental?",
+            "Apakah diet mempengaruhi kesehatan mental?",
+            "Apa peran hidrasi dalam kesehatan mental?"
+        ],
+        "jawaban": [
+            "Ya, tubuh yang sehat meningkatkan suasana hati, sementara gangguan fisik dapat memperburuk kondisi mental.",
+            "Tidur yang cukup membantu mengatur emosi, meningkatkan fokus, dan mengurangi risiko gangguan mood.",
+            "Olahraga meningkatkan endorfin yang memperbaiki mood, mengurangi stres, dan memperbaiki kualitas tidur.",
+            "Diet yang kaya nutrisi seperti omega-3, vitamin D, dan serat baik untuk otak dan membantu mengurangi risiko kecemasan.",
+            "Hidrasi yang cukup penting untuk fungsi otak. Dehidrasi dapat menyebabkan kelelahan, gangguan konsentrasi, dan perubahan suasana hati."
+        ]
+    },
+    {
+            "kategori": "stres",
+            "pertanyaan": ["Apa itu stres?", "Bagaimana cara mengelola stres?", "Apa dampak negatif dari stres berkepanjangan?"],
+            "jawaban": ["Stres adalah reaksi tubuh terhadap situasi sulit. Ini dapat dikurangi dengan olahraga, meditasi, dan berbicara dengan orang yang dipercaya."]
+        },
+        {
+            "kategori": "kecemasan",
+            "pertanyaan": ["Apa itu kecemasan?", "Bagaimana cara menghadapi kecemasan?", "Apakah makanan berpengaruh pada kecemasan?"],
+            "jawaban": ["Kecemasan adalah perasaan khawatir berlebihan. Teknik relaksasi dan diet seimbang dapat membantu menguranginya."]
+        },
+        {
+            "kategori": "depresi",
+            "pertanyaan": ["Apa itu depresi?", "Apa saja gejala depresi?", "Bagaimana cara mendapatkan bantuan untuk depresi?"],
+            "jawaban": ["Depresi adalah gangguan yang menyebabkan perasaan sedih berkelanjutan. Bantuan dapat dicari dari profesional kesehatan mental."]
+        },
+        {
+            "kategori": "pengembangan diri",
+            "pertanyaan": ["Apa itu pengembangan diri?", "Bagaimana membangun kepercayaan diri?", "Mengapa penting keluar dari zona nyaman?"],
+            "jawaban": ["Pengembangan diri adalah proses meningkatkan potensi. Keluar dari zona nyaman penting untuk mengembangkan keterampilan."]
+        },
+        {
+            "kategori": "dukungan sosial",
+            "pertanyaan": ["Mengapa dukungan sosial penting?", "Bagaimana memperkuat hubungan?", "Apakah kelompok dukungan membantu?"],
+            "jawaban": ["Dukungan sosial membantu mengurangi stres dan menyediakan bantuan emosional. Kelompok dukungan dapat sangat bermanfaat."]
+        },
+        {
+            "kategori": "kesehatan fisik dan mental",
+            "pertanyaan": ["Apakah kesehatan fisik mempengaruhi mental?", "Bagaimana tidur mempengaruhi mental?", "Bagaimana olahraga membantu mental?"],
+            "jawaban": ["Kesehatan fisik dan mental saling terkait. Tidur cukup dan olahraga meningkatkan suasana hati dan kesehatan mental."]
+        },
+        {
+            "kategori": "manajemen waktu",
+            "pertanyaan": ["Apa itu manajemen waktu?", "Bagaimana cara mengatur waktu dengan baik?", "Apa manfaat manajemen waktu?"],
+            "jawaban": ["Manajemen waktu adalah proses mengelola waktu dengan efisien. Ini membantu mengurangi stres dan meningkatkan produktivitas."]
+        },
+        {
+            "kategori": "pemulihan mental",
+            "pertanyaan": ["Apa itu pemulihan mental?", "Bagaimana cara memulihkan mental?", "Berapa lama pemulihan mental berlangsung?"],
+            "jawaban": ["Pemulihan mental adalah proses memperbaiki kesehatan mental setelah stres atau trauma. Waktu pemulihan berbeda bagi setiap orang."]
+        },
+        {
+            "kategori": "kemarahan",
+            "pertanyaan": ["Apa penyebab kemarahan?", "Bagaimana cara mengelola kemarahan?", "Apakah kemarahan berbahaya?"],
+            "jawaban": ["Kemarahan sering disebabkan frustrasi atau stres. Mengelola kemarahan bisa dengan teknik pernapasan dan berpikir positif."]
+        },
+        {
+            "kategori": "perasaan cemas",
+            "pertanyaan": ["Apa itu perasaan cemas?", "Bagaimana cara mengatasinya?", "Kapan cemas dianggap berlebihan?"],
+            "jawaban": ["Perasaan cemas adalah kekhawatiran akan sesuatu. Cemas berlebihan jika mengganggu keseharian, konsultasikan dengan profesional."]
+        },
+        {
+            "kategori": "harga diri",
+            "pertanyaan": ["Apa itu harga diri?", "Bagaimana cara meningkatkan harga diri?", "Apa pentingnya harga diri?"],
+            "jawaban": ["Harga diri adalah penilaian seseorang terhadap dirinya. Tingkatkan harga diri dengan fokus pada kelebihan dan pencapaian pribadi."]
+        },
+        {
+            "kategori": "pengambilan keputusan",
+            "pertanyaan": ["Mengapa sulit mengambil keputusan?", "Bagaimana membuat keputusan yang tepat?", "Apakah intuisi dapat membantu?"],
+            "jawaban": ["Pengambilan keputusan bisa sulit karena banyaknya pilihan. Intuisi dan analisis logis dapat membantu."]
+        },
+        {
+            "kategori": "hubungan keluarga",
+            "pertanyaan": ["Bagaimana menjaga hubungan keluarga?", "Apa manfaat komunikasi dalam keluarga?", "Bagaimana mengatasi konflik keluarga?"],
+            "jawaban": ["Komunikasi dan saling pengertian penting untuk menjaga hubungan keluarga. Konflik dapat diatasi dengan berdiskusi secara terbuka."]
+        },
+        {
+            "kategori": "keseimbangan hidup",
+            "pertanyaan": ["Apa itu keseimbangan hidup?", "Bagaimana cara mencapainya?", "Mengapa keseimbangan hidup penting?"],
+            "jawaban": ["Keseimbangan hidup adalah keseimbangan antara pekerjaan, keluarga, dan diri sendiri. Ini penting untuk kesehatan mental."]
+        },
+        {
+            "kategori": "kontrol diri",
+            "pertanyaan": ["Apa itu kontrol diri?", "Mengapa kontrol diri penting?", "Bagaimana cara meningkatkan kontrol diri?"],
+            "jawaban": ["Kontrol diri adalah kemampuan mengatur diri sendiri dalam berbagai situasi. Ini penting untuk membuat keputusan yang baik."]
+        },
+        {
+            "kategori": "optimisme",
+            "pertanyaan": ["Apa itu optimisme?", "Bagaimana menjadi lebih optimis?", "Apa manfaat optimisme?"],
+            "jawaban": ["Optimisme adalah sikap melihat sisi positif. Optimisme meningkatkan kebahagiaan dan mengurangi stres."]
+        },
+        {
+            "kategori": "kesendirian",
+            "pertanyaan": ["Apa itu kesendirian?", "Bagaimana cara menghadapi kesendirian?", "Apakah kesendirian buruk?"],
+            "jawaban": ["Kesendirian adalah perasaan sendiri. Tidak selalu buruk, tetapi penting mencari dukungan sosial jika merasa kesepian."]
+        },
+        {
+            "kategori": "perfeksionisme",
+            "pertanyaan": ["Apa itu perfeksionisme?", "Bagaimana mengatasi perfeksionisme?", "Apakah perfeksionisme baik?"],
+            "jawaban": ["Perfeksionisme adalah keinginan untuk sempurna. Ini dapat menghambat produktivitas dan meningkatkan stres."]
+        },
+        {
+            "kategori": "kesejahteraan emosional",
+            "pertanyaan": ["Apa itu kesejahteraan emosional?", "Bagaimana mencapainya?", "Apa pentingnya kesejahteraan emosional?"],
+            "jawaban": ["Kesejahteraan emosional adalah kondisi emosional yang stabil dan positif, penting untuk kesehatan mental."]
+        },
+        {
+            "kategori": "perubahan hidup",
+            "pertanyaan": ["Bagaimana menghadapi perubahan hidup?", "Apakah perubahan hidup sulit?", "Apa pentingnya adaptasi?"],
+            "jawaban": ["Perubahan hidup bisa sulit, tetapi dengan adaptasi dan sikap positif, perubahan dapat memberikan manfaat."]
+        },
+        {
+            "kategori": "komunikasi efektif",
+            "pertanyaan": ["Apa itu komunikasi efektif?", "Mengapa penting?", "Bagaimana cara berkomunikasi secara efektif?"],
+            "jawaban": ["Komunikasi efektif adalah kemampuan menyampaikan pesan dengan jelas. Ini penting untuk hubungan interpersonal yang baik."]
+        },
+        {
+            "kategori": "motivasi",
+            "pertanyaan": ["Apa itu motivasi?", "Bagaimana tetap termotivasi?", "Mengapa motivasi penting?"],
+            "jawaban": ["Motivasi adalah dorongan untuk mencapai tujuan. Menetapkan tujuan kecil dapat membantu meningkatkan motivasi."]
+        },
+        {
+            "kategori": "pengaturan emosi",
+            "pertanyaan": ["Apa itu pengaturan emosi?", "Mengapa penting?", "Bagaimana cara mengendalikan emosi?"],
+            "jawaban": ["Pengaturan emosi adalah kemampuan mengelola perasaan dalam berbagai situasi. Ini penting untuk hubungan dan kesehatan mental."]
+        },
+        {
+            "kategori": "kerjasama tim",
+            "pertanyaan": ["Mengapa penting?", "Bagaimana cara berkolaborasi?", "Apa tantangan dalam tim?"],
+            "jawaban": ["Kerjasama tim meningkatkan produktivitas dan ide inovatif. Komunikasi dan kompromi adalah kunci keberhasilan tim."]
+        },
+        {
+            "kategori": "kebiasaan tidur",
+            "pertanyaan": ["Mengapa tidur penting?", "Bagaimana cara meningkatkan kualitas tidur?", "Apa dampak kurang tidur?"],
+            "jawaban": ["Tidur yang cukup penting untuk fungsi otak dan kesehatan fisik. Kurang tidur dapat menyebabkan masalah konsentrasi."]
+        },
+        {
+            "kategori": "kesehatan otak",
+            "pertanyaan": ["Bagaimana menjaga kesehatan otak?", "Apa makanan baik untuk otak?", "Mengapa otak penting?"],
+            "jawaban": ["Kesehatan otak dapat dijaga dengan pola makan seimbang, tidur cukup, dan latihan mental."]
+        },
+        {
+            "kategori": "memaafkan diri",
+            "pertanyaan": ["Mengapa sulit memaafkan diri?", "Bagaimana cara memaafkan diri?", "Apakah penting?"],
+            "jawaban": ["Memaafkan diri penting untuk kesehatan mental. Ini dapat membantu melepaskan rasa bersalah dan meningkatkan kesejahteraan."]
+        },
+        
+            {
+                "kategori": "self-compassion",
+                "pertanyaan": ["Apa itu self-compassion?", "Mengapa self-compassion penting?", "Bagaimana cara melatih self-compassion?"],
+                "jawaban": ["Self-compassion adalah sikap berbaik hati pada diri sendiri, terutama dalam situasi sulit atau ketika gagal. Ini penting untuk meningkatkan kesejahteraan emosional."]
+            },
+            {
+                "kategori": "kesepian dalam hubungan",
+                "pertanyaan": ["Mengapa saya merasa kesepian meskipun punya pasangan?", "Bagaimana cara mengatasi kesepian dalam hubungan?", "Apakah kesepian dalam hubungan wajar?"],
+                "jawaban": ["Kesepian dalam hubungan dapat terjadi karena kurangnya koneksi emosional atau komunikasi. Meningkatkan komunikasi terbuka dapat membantu."]
+            },
+            {
+                "kategori": "adaptasi di lingkungan baru",
+                "pertanyaan": ["Bagaimana cara beradaptasi di tempat baru?", "Apa tantangan yang sering dihadapi di lingkungan baru?", "Mengapa adaptasi penting?"],
+                "jawaban": ["Adaptasi di tempat baru membutuhkan waktu dan fleksibilitas. Fokus pada hal positif dan temukan kesempatan untuk berkenalan dengan lingkungan sekitar."]
+            },
+            {
+                "kategori": "pemulihan dari trauma",
+                "pertanyaan": ["Apa itu trauma?", "Bagaimana cara memulihkan diri dari trauma?", "Apa terapi yang efektif untuk trauma?"],
+                "jawaban": ["Trauma adalah respons emosional terhadap peristiwa menyakitkan. Pemulihan bisa melalui terapi profesional seperti EMDR atau CBT."]
+            },
+            {
+                "kategori": "membangun boundaries",
+                "pertanyaan": ["Apa itu boundaries?", "Mengapa penting untuk memiliki boundaries?", "Bagaimana cara membangun boundaries?"],
+                "jawaban": ["Boundaries adalah batas pribadi yang membantu menjaga kesejahteraan emosional. Ini penting untuk menghormati kebutuhan diri sendiri."]
+            },
+            {
+                "kategori": "keseimbangan pekerjaan dan kehidupan",
+                "pertanyaan": ["Apa itu work-life balance?", "Mengapa penting?", "Bagaimana cara mencapai keseimbangan kerja dan kehidupan?"],
+                "jawaban": ["Work-life balance adalah keseimbangan antara pekerjaan dan kehidupan pribadi. Ini penting untuk mencegah burnout."]
+            },
+            {
+                "kategori": "kebiasaan makan yang sehat",
+                "pertanyaan": ["Mengapa penting makan sehat?", "Bagaimana pola makan mempengaruhi kesehatan mental?", "Apa tips makan sehat?"],
+                "jawaban": ["Makan sehat memberi energi dan nutrisi penting untuk tubuh. Nutrisi yang baik juga dapat membantu memperbaiki suasana hati dan energi."]
+            },
+            {
+                "kategori": "teknik pernapasan",
+                "pertanyaan": ["Apa itu teknik pernapasan?", "Bagaimana cara melakukan teknik pernapasan?", "Apa manfaatnya?"],
+                "jawaban": ["Teknik pernapasan dapat membantu menenangkan tubuh dan mengurangi stres. Cobalah menarik napas dalam-dalam dan hembuskan perlahan."]
+            },
+            {
+                "kategori": "penyebab kegelisahan",
+                "pertanyaan": ["Apa yang menyebabkan kegelisahan?", "Mengapa kita merasa gelisah?", "Bagaimana cara mengatasi kegelisahan?"],
+                "jawaban": ["Kegelisahan bisa disebabkan oleh banyak faktor seperti stres, terlalu banyak berpikir, atau kurang tidur. Teknik relaksasi dapat membantu."]
+            },
+            {
+                "kategori": "praktik syukur",
+                "pertanyaan": ["Apa itu praktik syukur?", "Mengapa bersyukur penting?", "Bagaimana cara memulai praktik syukur?"],
+                "jawaban": ["Praktik syukur membantu meningkatkan kebahagiaan dengan fokus pada hal-hal positif. Mulailah dengan menulis tiga hal yang disyukuri setiap hari."]
+            },
+            
+                {
+                    "kategori": "self-talk negatif",
+                    "pertanyaan": ["Apa itu self-talk negatif?", "Bagaimana cara menghentikan self-talk negatif?", "Mengapa self-talk negatif berbahaya?"],
+                    "jawaban": ["Self-talk negatif adalah kebiasaan berbicara pada diri sendiri dengan cara merendahkan atau mengkritik diri sendiri, yang dapat menurunkan harga diri dan meningkatkan kecemasan."]
+                },
+                {
+                    "kategori": "cinta diri",
+                    "pertanyaan": ["Apa itu cinta diri?", "Mengapa penting untuk mencintai diri sendiri?", "Bagaimana cara meningkatkan cinta diri?"],
+                    "jawaban": ["Cinta diri adalah sikap menghargai dan menerima diri sendiri dengan segala kelebihan dan kekurangan. Ini penting untuk kesehatan mental dan kesejahteraan."]
+                },
+                {
+                    "kategori": "rasa bersalah",
+                    "pertanyaan": ["Apa itu rasa bersalah?", "Bagaimana mengatasi rasa bersalah?", "Apakah rasa bersalah selalu buruk?"],
+                    "jawaban": ["Rasa bersalah adalah perasaan tidak nyaman atau sedih karena sesuatu yang telah dilakukan atau tidak dilakukan. Kadang ini membantu, tapi penting untuk tidak berlebihan."]
+                },
+                {
+                    "kategori": "kecemasan pekerjaan",
+                    "pertanyaan": ["Apa itu kecemasan pekerjaan?", "Bagaimana mengatasi kecemasan di tempat kerja?", "Apakah normal merasa cemas di pekerjaan?"],
+                    "jawaban": ["Kecemasan pekerjaan adalah perasaan khawatir atau tegang terkait tugas atau lingkungan kerja. Teknik relaksasi dan manajemen waktu dapat membantu."]
+                },
+                {
+                    "kategori": "menetapkan tujuan",
+                    "pertanyaan": ["Bagaimana cara menetapkan tujuan?", "Apa manfaat menetapkan tujuan?", "Bagaimana membuat tujuan yang realistis?"],
+                    "jawaban": ["Menetapkan tujuan membantu memberikan arah hidup dan motivasi. Mulailah dengan tujuan yang spesifik, terukur, dan realistis."]
+                },
+                {
+                    "kategori": "mengatasi kritik",
+                    "pertanyaan": ["Bagaimana cara menerima kritik?", "Mengapa kritik sulit diterima?", "Bagaimana cara belajar dari kritik?"],
+                    "jawaban": ["Kritik bisa menjadi umpan balik yang konstruktif jika diterima dengan terbuka. Fokus pada pembelajaran yang bisa diambil dari kritik."]
+                },
+                {
+                    "kategori": "manajemen emosi",
+                    "pertanyaan": ["Apa itu manajemen emosi?", "Mengapa penting mengelola emosi?", "Bagaimana cara meningkatkan manajemen emosi?"],
+                    "jawaban": ["Manajemen emosi adalah kemampuan untuk mengenali, mengelola, dan mengekspresikan emosi dengan tepat. Ini penting untuk kesejahteraan dan hubungan yang sehat."]
+                },
+                {
+                    "kategori": "burnout",
+                    "pertanyaan": ["Apa itu burnout?", "Apa tanda-tanda burnout?", "Bagaimana cara mencegah burnout?"],
+                    "jawaban": ["Burnout adalah kondisi kelelahan fisik, emosional, dan mental akibat tekanan yang berlebihan. Ini bisa dicegah dengan keseimbangan hidup dan istirahat yang cukup."]
+                },
+                {
+                    "kategori": "kepercayaan pada orang lain",
+                    "pertanyaan": ["Mengapa sulit mempercayai orang lain?", "Bagaimana membangun kepercayaan pada orang lain?", "Apakah kepercayaan dapat dipulihkan?"],
+                    "jawaban": ["Kepercayaan adalah elemen penting dalam hubungan yang sehat. Membangun kepercayaan membutuhkan waktu dan komunikasi yang jujur."]
+                },
+                {
+                    "kategori": "kerentanan",
+                    "pertanyaan": ["Apa itu kerentanan?", "Mengapa penting untuk bisa rentan?", "Bagaimana cara menjadi lebih rentan dalam hubungan?"],
+                    "jawaban": ["Kerentanan adalah kemampuan untuk menunjukkan diri apa adanya, termasuk kelemahan. Ini dapat memperdalam hubungan dan membantu pertumbuhan pribadi."]
+                },
+                {
+                    "kategori": "menangani kekecewaan",
+                    "pertanyaan": ["Bagaimana cara menghadapi kekecewaan?", "Apakah wajar merasa kecewa?", "Bagaimana mengubah kekecewaan menjadi pelajaran?"],
+                    "jawaban": ["Kekecewaan adalah reaksi wajar terhadap situasi yang tidak sesuai harapan. Mengubah kekecewaan menjadi pelajaran bisa memperkuat mental."]
+                },
+                {
+                    "kategori": "takut akan penolakan",
+                    "pertanyaan": ["Apa itu takut akan penolakan?", "Bagaimana mengatasi ketakutan ditolak?", "Mengapa kita takut akan penolakan?"],
+                    "jawaban": ["Ketakutan akan penolakan sering muncul karena rasa takut tidak diterima. Menghadapinya dengan menerima penolakan sebagai bagian normal dari hidup bisa membantu."]
+                },
+                {
+                    "kategori": "kebiasaan sehat",
+                    "pertanyaan": ["Apa itu kebiasaan sehat?", "Mengapa penting memiliki kebiasaan sehat?", "Bagaimana membentuk kebiasaan sehat?"],
+                    "jawaban": ["Kebiasaan sehat mencakup aktivitas seperti olahraga, makan sehat, dan tidur cukup. Ini penting untuk kesehatan fisik dan mental."]
+                },
+                {
+                    "kategori": "meditasi",
+                    "pertanyaan": ["Apa itu meditasi?", "Bagaimana meditasi dapat membantu kesehatan mental?", "Apa saja jenis-jenis meditasi?"],
+                    "jawaban": ["Meditasi adalah latihan fokus dan ketenangan pikiran. Meditasi dapat mengurangi stres dan meningkatkan kesejahteraan."]
+                },
+                {
+                    "kategori": "persepsi diri",
+                    "pertanyaan": ["Apa itu persepsi diri?", "Bagaimana memperbaiki persepsi diri?", "Mengapa persepsi diri penting?"],
+                    "jawaban": ["Persepsi diri adalah cara seseorang memandang diri mereka. Ini penting karena persepsi diri yang positif mendukung kesehatan mental."]
+                },
+                {
+                    "kategori": "mengelola harapan",
+                    "pertanyaan": ["Apa itu harapan?", "Mengapa harapan penting?", "Bagaimana cara mengelola harapan yang realistis?"],
+                    "jawaban": ["Harapan adalah keinginan atau ekspektasi yang diharapkan dari masa depan. Penting untuk menjaga harapan realistis agar tidak kecewa."]
+                },
+                {
+                    "kategori": "menjalin hubungan baru",
+                    "pertanyaan": ["Bagaimana cara memulai hubungan baru?", "Apakah penting untuk membuka diri?", "Bagaimana mengatasi ketakutan akan hubungan baru?"],
+                    "jawaban": ["Memulai hubungan baru bisa menakutkan, tetapi membuka diri dan komunikasi yang jujur adalah langkah penting untuk hubungan yang sehat."]
+                },
+                {
+                    "kategori": "membangun motivasi diri",
+                    "pertanyaan": ["Apa itu motivasi diri?", "Bagaimana cara membangun motivasi diri?", "Mengapa motivasi diri penting?"],
+                    "jawaban": ["Motivasi diri adalah dorongan untuk mencapai tujuan pribadi. Ini penting untuk produktivitas dan pertumbuhan pribadi."]
+                },
+                {
+                    "kategori": "menghargai proses",
+                    "pertanyaan": ["Apa artinya menghargai proses?", "Mengapa penting?", "Bagaimana belajar menikmati proses?"],
+                    "jawaban": ["Menghargai proses berarti menikmati setiap langkah dalam mencapai tujuan. Ini penting agar tidak terjebak hanya pada hasil akhir."]
+                },
+                {
+                    "kategori": "manajemen konflik",
+                    "pertanyaan": ["Apa itu manajemen konflik?", "Bagaimana cara menyelesaikan konflik dengan baik?", "Mengapa manajemen konflik penting?"],
+                    "jawaban": ["Manajemen konflik adalah kemampuan untuk menyelesaikan perselisihan secara damai. Ini penting untuk menjaga hubungan yang sehat."]
+                }
+        ]
+      }
